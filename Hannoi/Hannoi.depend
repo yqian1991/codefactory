@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1363572631 source:d:\codeblocks\hannoi\main.c
+	<stdio.h>
+	<stdlib.h>
+

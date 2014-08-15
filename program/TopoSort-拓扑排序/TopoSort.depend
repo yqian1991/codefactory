@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1363416299 source:d:\codeblocks\toposort\main.c
+	"stdio.h"
+	"conio.h"
+	"stdlib.h"
+

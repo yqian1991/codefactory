@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380076572 source:d:\work\codeblocks\dijistra\main.c
+	<stdio.h>
+	<stdlib.h>
+

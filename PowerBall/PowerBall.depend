@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1391903806 source:d:\work\codeblocks\powerball\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

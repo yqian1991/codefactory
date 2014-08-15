@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1394024074 source:d:\work\codeblocks\trainarrange_dp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"seqAlign.h"
+
+1394023440 d:\work\codeblocks\trainarrange_dp\seqalign.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<time.h>
+
+1394023842 source:d:\work\codeblocks\trainarrange_dp\seqalign.c
+	<stdio.h>
+	<stdlib.h>
+	"seqAlign.h"
+

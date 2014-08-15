@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1394325725 source:d:\work\codeblocks\program\work\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1351165449 source:d:\work\codeblocks\program\work\randlist.c
+	"std.h"
+	"constValue.h"
+
+1351320724 d:\work\codeblocks\program\work\std.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<time.h>
+
+1350954295 d:\work\codeblocks\program\work\constvalue.h
+
+1351163054 source:d:\work\codeblocks\program\work\readcount.c
+	"std.h"
+	"constValue.h"
+	"function.h"
+
+1351127474 d:\work\codeblocks\program\work\function.h
+
+1351165458 source:d:\work\codeblocks\program\work\count.c
+	"std.h"
+	"constValue.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1336800683 source:e:\mfcproject\dynamictask\main.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+
+1336800771 source:d:\codeblocks\program\mfcproject\dynamictask\main.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+

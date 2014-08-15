@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1344824450 source:d:\codeblocks\dstructure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+
+1344824433 d:\codeblocks\dstructure\structure.h
+
+1363078153 source:d:\codeblocks\program\bitree-¶ş²æÊ÷\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+
+1363077801 d:\codeblocks\program\bitree-¶ş²æÊ÷\structure.h
+
+1363091514 source:d:\work\codeblocks\program\bitree-¶ş²æÊ÷\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+
+1363091486 d:\work\codeblocks\program\bitree-¶ş²æÊ÷\structure.h
+

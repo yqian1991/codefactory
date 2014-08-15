@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1406669360 source:d:\work\codeblocks\testcycle\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	"cycle.h"
+
+1406669668 d:\work\codeblocks\testcycle\cycle.h
+	<iostream>
+	<string>
+	<vector>
+

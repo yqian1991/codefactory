@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1350112458 source:d:\codeblocks\lca\main.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<cmath>
+
+1350112078 source:d:\codeblocks\lca\main.c
+	<stdio.h>
+	<stdlib.h>
+

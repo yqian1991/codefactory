@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1391906032 source:d:\work\codeblocks\stl1\main.cpp
+	<iostream>
+	<iterator>
+	<list>
+	<vector>
+

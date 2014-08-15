@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1335497400 source:e:\mfcproject\cyclelist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1335497400 source:d:\codeblocks\program\mfcproject\cyclelist\main.c
+	<stdio.h>
+	<stdlib.h>
+

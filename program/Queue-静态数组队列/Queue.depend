@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1363001215 source:d:\codeblocks\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1363003097 source:d:\codeblocks\queue\linkedlistqueue.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1347276480 source:d:\codeblocks\tpn\main.cpp
+	<malloc.h>
+	"topn.h"
+
+1347276480 d:\codeblocks\tpn\topn.h
+
+1347276698 source:d:\codeblocks\program\tpn\main.cpp
+	<malloc.h>
+	"topn.h"
+
+1347276480 d:\codeblocks\program\tpn\topn.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1394589695 source:d:\work\codeblocks\IRFinder\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

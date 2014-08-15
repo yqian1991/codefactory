@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1342662671 source:d:\codeblocks\sortalogrith\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+
+1342662256 d:\codeblocks\sortalogrith\sort.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1336800542 source:e:\mfcproject\statictask\main.c
+	<stdio.h>
+	<pthread.h>
+

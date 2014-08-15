@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1352191787 source:d:\codeblocks\maxmin\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1363567334 source:d:\codeblocks\program\maxmin-大根堆小根堆\main.c
+	<stdio.h>
+	<stdlib.h>
+

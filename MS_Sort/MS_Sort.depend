@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1393549990 source:d:\work\codeblocks\ms_sort\main.c
+	<stdio.h>
+
+1393550472 source:d:\work\codeblocks\ms_sort\sort.c
+	"sort.h"
+	<stdio.h>
+	<stdlib.h>
+
+1393550479 d:\work\codeblocks\ms_sort\sort.h
+

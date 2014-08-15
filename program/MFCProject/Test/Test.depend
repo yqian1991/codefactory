@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1335497705 source:e:\mfcproject\test\main.c
+	<stdio.h>
+	<stdlib.h>
+

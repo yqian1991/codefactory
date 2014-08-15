@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1335496237 source:e:\mfcproject\cyclelisttest\main.c
+	<stdio.h>
+	<stdlib.h>
+

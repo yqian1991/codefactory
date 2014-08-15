@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1360916081 source:d:\codeblocks\matharray\main.c
+	<stdio.h>
+
+1363138182 source:d:\codeblocks\program\matharray\main.c
+	<stdio.h>
+
+1366197358 source:d:\work\codeblocks\program\backtrack_2-回溯算法（求全排列）\main.c
+	<stdio.h>
+

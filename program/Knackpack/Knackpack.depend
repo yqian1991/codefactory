@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1353631349 source:d:\codeblocks\knackpack\main.c
+	<stdio.h>
+	<string.h>
+

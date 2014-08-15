@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1354670546 source:d:\codeblocks\websearch\bsearch.c
+	<stdio.h>
+
+1354670546 source:d:\codeblocks\program\websearch\bsearch.c
+	<stdio.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1383245935 source:d:\work\codeblocks\kmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1383613609 source:d:\work\codeblocks\kmp_overlap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

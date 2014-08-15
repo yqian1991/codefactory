@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1354802742 source:d:\codeblocks\backtrack\main.c
+	<stdio.h>
+	<malloc.h>
+
+1354796854 source:d:\codeblocks\backtrack\test.c
+
+1363157508 source:d:\codeblocks\program\backtrack-回溯算法（求幂集）\main.c
+	<stdio.h>
+	<malloc.h>
+
+1363153908 source:d:\work\codeblocks\program\backtrack-回溯算法（求幂集）\main.c
+	<stdio.h>
+	<malloc.h>
+

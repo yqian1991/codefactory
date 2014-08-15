@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1354589868 source:d:\codeblocks\regex\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1354589868 source:d:\codeblocks\program\regex\main.c
+	<stdio.h>
+	<stdlib.h>
+

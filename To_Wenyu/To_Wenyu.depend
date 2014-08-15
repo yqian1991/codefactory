@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402060639 source:d:\work\codeblocks\to_wenyu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
